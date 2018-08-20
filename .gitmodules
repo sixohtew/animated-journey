@@ -1,0 +1,6 @@
+[submodule ".repo/local_manifests"]
+	path = .repo/local_manifests
+	url = ./www.github.com/sixopenandroidproject/
+[submodule ".repo/manifests"]
+	path = .repo/manifests
+	url = ./www.github.com/sixopenandroidproject/
